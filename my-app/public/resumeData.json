@@ -2,12 +2,12 @@
   "main": {
     "name":"Jennifer A Morris",
     "occupation":"Full Stack Web Developer",
-    "bio":"I am a junior software developer in New York. I leant code at Columbia Engineering Bootcamp.",
+    "bio":"I am a junior software developer in New York. I studied coding at Columbia Engineering Bootcamp.",
     "image":"profilepic.jpg",
-    "email": "jenniferinbaranoseidou@gmail.com@gmail.com",
+    "email": "jenniferinbaranoseidou@gmail.com",
     "address":{
-      "city":"New York",
-      "state":"(NY)"
+      "city":"New York City",
+      "state":""
     },
     "website": "https://react-portfolio-jennifer.herokuapp.com/",
     "social":[
@@ -87,38 +87,44 @@
         "title":"First Portfolio",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"FirstPortfolio.jpg",
-        "url":"https://github.com/jmorris107/my-first-responsive-portfolio.github.io"
+        "url":"https://jmorris107.github.io/my-first-responsive-portfolio.github.io/index.html"
       },
       {
         "title": "Air Quality App",
         "category": "Search any city and get a weather and an air quality.(Group Project)",
         "image": "AirQuality.jpg",
-        "imglink": "https://github.com/jmorris107/real-estate-weather-app"
+        "url": "https://lyne-code.github.io/real-estate-weather-app/"
   
       },
       {
         "title":"Offline Budget Tracker",
         "category":"This app allows you to track a budget both offline and online.",
         "image":"OfflineBudget.jpg",
-        "url":"https://github.com/jmorris107/Offline-Budget-Trackers.github.io"
+        "url":"https://offline-available-badgetapp.herokuapp.com/"
       },
       {
         "title":"Workout Tracker ",
         "category":"Track your workout.",
         "image":"Workout.jpg",
-        "url":"https://github.com/jmorris107/Nosq-Workout-Tracker.github.io"
+        "url":"https://workout-nosql.herokuapp.com/?id=5fcbe250dc526d001779c217"
       },
       {
         "title":"Day Scheduler",
         "category":"Save your schedule.",
         "image":"DayScheduler.jpg",
-        "url":"https://github.com/jmorris107/Nosq-Workout-Tracker.github.io"
+        "url":"https://jmorris107.github.io/ThirdPartyAPIs-WorkDayScheduler.guthub.io/"
       },
       {
         "title":"Code Quiz",
         "category":"Questuons of Coding",
         "image":"codequiz.jpg",
-        "url":"https://github.com/jmorris107/WebAPIs-CodeQuiz.github.io"
+        "url":"https://jmorris107.github.io/WebAPIs-CodeQuiz.github.io/"
+      },
+      {
+        "title":"React Portfolio",
+        "category":"My second portfolioc, which created with React.",
+        "image":"react-portfolio.jpg",
+        "url":"https://github.com/jmorris107/React-Portfolio"
       }
     ]
   }
