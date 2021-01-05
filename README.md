@@ -14,6 +14,8 @@
 
   # Description
   📝 It is my portfolio created by React.
+   There is resume, which you can download, and showing some works and my skills as well.
+   
  
 
   # Table of Contents
@@ -32,10 +34,10 @@
 Runs the app in the development mode <code>npm start</code>.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. .
 
-![Home](public/images/READMEimg/Home.jpg);
-![About](public/images/READMEimg/About.jpg));
-![Works](public/images/READMEimg/Works.jpg));
-![Skills](public/images/READMEimg/Skills.jpg));
+![Home](public/images/READMEimg/Home.jpg)
+![About](public/images/READMEimg/About.jpg)
+![Works](public/images/READMEimg/Works.jpg)
+![Skills](public/images/READMEimg/Skills.jpg)
 
 # Installation
 🗳 </br>
