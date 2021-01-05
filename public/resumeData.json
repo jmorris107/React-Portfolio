@@ -45,7 +45,7 @@
     ],
     "work":[
       {
-        "company":"Commun at Krasi",
+        "company":"Commune at Krasi",
         "title":"Receptionist ",
         "years":"July 2019 - March 2020"
         
@@ -85,7 +85,7 @@
     "projects": [
       {
         "title":"First Portfolio",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"It's my first portfolio.",
         "image":"FirstPortfolio.jpg",
         "url":"https://jmorris107.github.io/my-first-responsive-portfolio.github.io/index.html"
       },
