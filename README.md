@@ -15,7 +15,7 @@
   # Description
   📝 It is my portfolio created by React.
    There is resume, which you can download, and showing some works and my skills as well.
-   
+
  
 
   # Table of Contents
@@ -28,7 +28,8 @@
 
 
 # Usage
-💻 Open [Heroku](https://react-portfolio-jennifer.herokuapp.com/).
+💻 </br>
+Open [Heroku](https://react-portfolio-jennifer.herokuapp.com/).
 
 
 Runs the app in the development mode <code>npm start</code>.
