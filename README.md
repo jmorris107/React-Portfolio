@@ -7,7 +7,7 @@
   ![css size badge](https://img.shields.io/badge/css.size-48.8-purple.svg)
 
 
-  ![React badge](https://img.shields.io/badge/JavaScript-blue.svg)
+  ![React badge](https://img.shields.io/badge/Reactt-blue.svg)
   ![jQuery badge](https://img.shields.io/badge/jQuery-blue.svg)
 
 
@@ -20,7 +20,7 @@
   - [Description](#description)
   - [Usage](#usage)
   - [Installation](#installation)
-   - [Contribution](#Contribution)
+  - [Contribution](#Contribution)
   - [Links](#links)
 
 
@@ -38,8 +38,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. .
 ![Skills](public/images/READMEimg/Skills.jpg));
 
 # Installation
-[Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
-🗳 <code>npx create-react-app</code>,<code>npm install</code>,<code>npm install start</code>,<code> npm install jquery</code>,<code>npm install react</code>,<code>npm install react-dom</code>,<code>npm install react-ga</code>,<code>npm install react-scripts</code>
+🗳 </br>
+:atom_symbol:[Create React App](https://facebook.github.io/create-react-app/docs/getting-started)</br>
+<code>npx create-react-app</code>,<code>npm install</code>,<code>npm install start</code>,<code> npm install jquery</code>,<code>npm install react</code>,<code>npm install react-dom</code>,<code>npm install react-ga</code>,<code>npm install react-scripts</code>
 
 # Contribution
 👨‍💻</br>
