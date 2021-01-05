@@ -5,11 +5,13 @@
     "bio":"I am a junior software developer in New York. I studied coding at Columbia Engineering Bootcamp.",
     "image":"profilepic.jpg",
     "email": "jenniferinbaranoseidou@gmail.com",
+    "phone": "347-703-1598",
     "address":{
       "city":"New York City",
       "state":""
     },
     "website": "https://react-portfolio-jennifer.herokuapp.com/",
+    "resumedownload":"https://docs.google.com/document/d/1WFzxzqUbllqAHnXexaS4oI1pXbAPlgYN/export?format=pdf",
     "social":[
 
       {
@@ -30,7 +32,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"My skills",
+    "skillmessage":"CHECK OUT MY SKILLS",
     "education":[
       {
         "school":"Columbia Engineering Coding Bootcamps",
@@ -58,7 +60,7 @@
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"JavaScript",
         "level":"60%"
       },
       
@@ -68,16 +70,16 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"80%"
       },
       {
-        "name":"HTML5",
+        "name":"HTML",
         "level":"80%"
       },
      
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"70%"
       }
     ]
   },
