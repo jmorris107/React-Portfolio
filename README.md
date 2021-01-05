@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# 🏋🏻‍♀️Nosq Workout Tracker🤸🏿‍♀️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+  ![repo size badge](https://img.shields.io/badge/repo.size-145KB-blue.svg)
+  ![javascript size badge](https://img.shields.io/badge/javascript.size-58.9-yellow.svg)
+  ![html size badge](https://img.shields.io/badge/html.size-18.8-orange.svg)
+  ![css size badge](https://img.shields.io/badge/css.size-22.3-purple.svg)
 
-In the project directory, you can run:
 
-### `npm start`
+  ![React badge](https://img.shields.io/badge/JavaScript-blue.svg)
+  ![jQuery badge](https://img.shields.io/badge/jQuery-blue.svg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+ 
+  
+  
+  # Description
+  📝 It is my portfolio created by React.
+ 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  # Table of Contents
+  - [Description](#description)
+  - [Usage](#usage)
+  - [Installation](#installation)
+   - [Cintribution](#Contribution)
+  - [Links](#links)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Usage
+💻 Open [Heroku](https://react-portfolio-jennifer.herokuapp.com/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+Runs the app in the development mode <code>npm start</code>.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. .
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![workout](public/images/workoutpage.jpg);
+![exercise](public/images/exercisepage.jpg);
+![dashboard](public/images/dashboardpage.jpg);
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Installation
+[Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
+🗳 <code>npx create-react-app</code>,<code>npm install</code>,<code>npm install start</code>,<code> npm install jquery</code>,<code>npm install react</code>,<code>npm install react-dom</code>,<code>npm install react-ga</code>,<code>npm install react-scripts</code>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Contribution 👨‍💻
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Josh K 
+Tim Baker
+  
+# Links
+:atom_symbol: [Heroku](https://react-portfolio-jennifer.herokuapp.com/)<br />
+:octocat: Github [Repo](https://github.com/jmorris107/React-Portfolio.github.io) / [Account](https://github.com/)<br />
+<br />
